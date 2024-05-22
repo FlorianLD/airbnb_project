@@ -6,7 +6,7 @@ Data project about the Airbnb market in Chicago.
 
 The objective of this project was to create an end-to-end data pipeline, from data loading and cleaning, to creating a report in PowerBI.<br />
 Additionnally, my secondary goal was to integrate sqlalchemy and pyodbc in this data pipeline to interact with the database using only Python.
-- [Python file](https://nbviewer.org/github/FlorianLD/airbnb_project/blob/main/airbnb_notebook.ipynb)
+- [Python file]](https://github.com/FlorianLD/airbnb_project/blob/main/airbnb_notebook.ipynb)
 - [PowerBI report](https://github.com/FlorianLD/airbnb_project/blob/main/airbnb_report.pbix)
 
 # Tools
