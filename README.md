@@ -1,4 +1,4 @@
-# airbnb_project
+# About
 
 Data project about the Airbnb market in Chicago.
 
